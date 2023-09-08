@@ -15,7 +15,7 @@ pygame.mixer.music.set_volume(0.3)
 
 fire = pygame.mixer.Sound('fire.ogg')
 fire.set_volume(0.3)
-# kick.play()
+
 
 
 class GameSprite(pygame.sprite.Sprite):
